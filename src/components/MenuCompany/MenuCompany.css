@@ -1,0 +1,19 @@
+.company-menu-block {
+    background-color: white;
+    color: var(--color-secondary);
+    position: absolute;
+    top: 30px;
+    left: 130px;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.company-menu {
+    font-family: var(--font-base);
+    font-weight: 500;
+}
